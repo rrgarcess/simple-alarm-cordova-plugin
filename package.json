@@ -1,0 +1,12 @@
+{
+  "name": "simple-alarm-cordova-plugin",
+  "version": "1.0.0",
+  "cordova": {
+    "id": "simple-alarm-cordova-plugin",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "description": "A starting point for a Cordova Plugin"
+}
